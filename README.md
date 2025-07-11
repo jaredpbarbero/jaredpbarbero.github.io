@@ -269,7 +269,7 @@ FROM view_uk_youtubers_2024;
 
 ```
 
-![Row count check](assets/images/row_count_check.jpg)
+![Row count check](assets/images/row_check.jpg)
 
 
 
