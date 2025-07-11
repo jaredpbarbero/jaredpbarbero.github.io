@@ -119,7 +119,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 
 
-![Dashboard-Mockup](assets/images/dashboard_mockup.png)
+![Dashboard-Mockup](assets/images/dashboard_mockup.jpg)
 
 
 ## Tools 
@@ -269,7 +269,7 @@ FROM view_uk_youtubers_2024;
 
 ```
 
-![Row count check](assets/images/row_count_check.png)
+![Row count check](assets/images/row_count_check.jpg)
 
 
 
@@ -286,7 +286,7 @@ AND table_name = 'view_uk_youtubers_2024'
 
 ```
 ### Output 
-![Column count check](assets/images/column_count_check.png)
+![Column count check](assets/images/column_count_check.jpg)
 
 
 
@@ -305,7 +305,7 @@ AND table_name = 'view_uk_youtubers_2024'
 
 ```
 ### Output
-![Data type check](assets/images/data_field_check.png)
+![Data type check](assets/images/data_field_check.jpg)
 
 
 ## Duplicate count check
@@ -327,7 +327,7 @@ HAVING COUNT(*) > 1
 
 ```
 ### Output
-![Duplicate count check](assets/images/duplicate_check.png)
+![Duplicate count check](assets/images/duplicate_check.jpg)
 
 # Visualization 
 
@@ -604,7 +604,7 @@ ORDER BY net_profit DESC;
 
 #### Output
 
-![Most subsc](assets/images/most_subs.png)
+![Most subsc](assets/images/most_subs.jpg)
 
 ### 2. Youtubers with the most videos uploaded
 
@@ -696,7 +696,7 @@ ORDER BY net_profit DESC;
 
 #### Output
 
-![Most videos](assets/images/most_videos.png)
+![Most videos](assets/images/most_videos.jpg)
 
 
 ### 3.  Youtubers with the most views 
@@ -793,7 +793,7 @@ ORDER BY net_profit DESC;
 
 #### Output
 
-![Most views](assets/images/most_videos.png)
+![Most views](assets/images/most_videos.jpg)
 
 
 
