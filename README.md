@@ -119,7 +119,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 
 
-![Dashboard_Mockup](assets/images/dashboard_mockup.jpg)
+![Dashboard_Mockup](assets/images/dashboard_mockup.png)
 
 
 ## Tools 
